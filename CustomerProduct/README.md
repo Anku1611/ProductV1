@@ -1,7 +1,7 @@
 # This project contains two projects
 1 customerproductfrontend
 2 CustomerProductCoreAPI
-#This solution also conatins demo folder where UI is provided.
+# This solution also contains demo folder where UI is provided.
 
 1 customerproductfrontend -- This is react front end app
 # Getting Started with Create React App
