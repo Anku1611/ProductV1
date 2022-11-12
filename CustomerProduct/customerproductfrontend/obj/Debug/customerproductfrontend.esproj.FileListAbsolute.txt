@@ -1,0 +1,2 @@
+C:\Users\Akanksha Shrivastava\source\repos\Products\CustomerProductFrontEnd\obj\Debug\customerproductfrontend.esproj.SuggestedBindingRedirects.cache
+C:\Users\Akanksha Shrivastava\source\repos\Products\CustomerProductFrontEnd\obj\Debug\customerproductfrontend.esproj.CoreCompileInputs.cache
